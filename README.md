@@ -1,0 +1,9 @@
+- Opening webpage https://honolulu.craigslist.org
+- Reading data from first page.
+- Save data to the file.
+- Open Firefox webdriver from Selenium.
+- Use XPATH to find NEXT PAGE button.
+- Click NEXT PAGE button.
+- Read new URL.
+- Read data from second page.
+- Save data to the file.
